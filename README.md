@@ -41,7 +41,7 @@ Machine learning project for the [Kaggle House Prices - Advanced Regression Tech
 
 1. Download the [dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) from Kaggle
 2. Upload to Google Drive at `/content/drive/My Drive/Colab_Materials/House_Price_Estimation/`
-3. See the [full notebook](notebooks/Untitled0.ipynb) for the complete analysis
+3. See the [full notebook](notebooks/house_price_prediction.ipynb) for the complete analysis
 
 ---
 
